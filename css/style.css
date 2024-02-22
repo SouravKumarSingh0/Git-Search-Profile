@@ -199,7 +199,7 @@ a {
       background-color: #eeb83b; }
 
 .main {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../img/bg-main.jpg") center center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../img/1.jpg") center center no-repeat;
   background-size: cover;
   padding: 100px 0;
   text-align: center;
